@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "206215385886",
+    "project_id": "bankkonto-app",
+    "storage_bucket": "bankkonto-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:206215385886:android:9c887fea44e1c28f8cef0f",
+        "android_client_info": {
+          "package_name": "com.example.bankaccount_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "206215385886-af1tieaaja2ie8hsrflb7e6s3i5o5p8p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmKVDpXSSpmsG47aIA89FuiMcbH5hk4cM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "206215385886-af1tieaaja2ie8hsrflb7e6s3i5o5p8p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
